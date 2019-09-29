@@ -1,0 +1,66 @@
+{
+		"summary": {
+				"emissions_total": [
+						"787.1534286020544792455786560",
+						"kg CO2e"
+				]
+		},
+		"total_emissions": [
+				{
+						"CH4": "0.00",
+						"CO2": "5.20",
+						"N2O": "0.00",
+						"name": "energy_field_machinery",
+						"total_CO2e": "5.20"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "6.74",
+						"N2O": "0.00",
+						"name": "fertiliser",
+						"total_CO2e": "6.74"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "0.00",
+						"N2O": "0.56",
+						"name": "fertiliser_soil",
+						"total_CO2e": "167.15"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "-2384.44",
+						"N2O": "0.00",
+						"name": "management",
+						"total_CO2e": "-2384.44"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "20.50",
+						"N2O": "0.00",
+						"name": "pesticide",
+						"total_CO2e": "20.50"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "0.00",
+						"N2O": "0.86",
+						"name": "residue",
+						"total_CO2e": "255.22"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "0.79",
+						"N2O": "0.00",
+						"name": "seed",
+						"total_CO2e": "0.79"
+				},
+				{
+						"CH4": "0.00",
+						"CO2": "2716.00",
+						"N2O": "0.00",
+						"name": "transport",
+						"total_CO2e": "2716.00"
+				}
+		]
+}

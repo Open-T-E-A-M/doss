@@ -1,0 +1,105 @@
+{
+    "farm": {
+          "country_id": 276,
+          "territory_id": 94,
+          "climate": "temperate",
+          "average_temperature_value": 15,
+          "average_temperature_unit": "°C",
+          "surface_ha": 1.0,
+          "soil_texture": 1,
+          "soil_organic_matter": 2,
+          "soil_moisture": 1,
+          "soil_drainage": 1,
+          "soil_ph": 4
+      },
+      "crop": {
+          "yield_fresh_t": 10.0,
+          "type_id": 14,
+          "residue_t_ha": 2.5,
+          "residue_management_id": 4,
+          "seed_amount_kg": 10.0
+      },
+      "pesticides": [
+          {
+              "applications": 1,
+              "category": 3,
+              "percentage_rate": 100,
+              "application_rate_kg_acre": 1
+          }
+      ],
+      "machinery": [
+          {
+              "operation_count": 1,
+              "machinery_id": 24,
+              "fuel_type": 102
+          }
+      ],
+      "irrigation": [
+          {
+              "method": 1,
+              "allocation": 100,
+              "pumping_value": 2,
+              "pumping_unit": 1,
+              "distance_value": 200,
+              "distance_unit": 1,
+              "water_added_unit": 58,
+              "water_added_value": 0.1,
+              "power_source": 1
+          }
+      ],
+      "fertilization": [
+          {
+              "type": "Compose your own NPK",
+              "type_id": 44,
+              "production": "Europe (2011)",
+              "production_id": 2,
+              "n_total_percentage": 0.0,
+              "n_ammonia_percentage": 0.0,
+              "n_nitric_percentage": 0.0,
+              "n_urea_percentage": 0.0,
+              "p2o5_percentage": 0.0,
+              "p2o5_percentage_type": "P2O5",
+              "p2o5_percentage_type_id": 4,
+              "k2o_percentage": 0.0,
+              "k2o_percentage_type": "K2O",
+              "k2o_percentage_type_id": 5,
+              "rate_unit": "kg/ha",
+              "rate_unit_id": 24,
+              "rate_measure": "",
+              "method": 2,
+              "inhibition": "None",
+              "inhibition_id": 1,
+              "rate": 100.0
+          }
+      ],
+      "direct_energy": [],
+      "transport": [
+          {
+              "mode": 'road (LGV) (diesel)',
+              "weight_value": 4,
+              "weight_unit": 'tonne',
+              "distance_value": 2000,
+              "distance_unit": 'km'
+          }
+      ],
+      "land_management": [
+          {
+              "change": 13,
+              "years_ago": 1,
+              "allocation": 100
+          }
+      ],
+      "tree_biomass": [
+          {
+              "tree_type_id": 5,
+              "density_last_year_value": 100,
+              "density_last_year_unit": "trees / hectare",
+              "size_last_year_value": 10,
+              "size_last_year_unit": "cm",
+              "size_this_year_value": 15,
+              "size_this_year_unit": "cm",
+              "num_trees_delta_value": 1,
+              "num_trees_delta_unit": "trees / hectare"
+          }
+      ],
+}
